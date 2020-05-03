@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "common Vasya",
+    "mongoUri": "mongodb+srv://root:q12345@cluster0-glsmk.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
